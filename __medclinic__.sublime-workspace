@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs",
+		"/C/xampp/htdocs/pacient"
+	],
+	"file_history":
+	[
+		"/C/Users/www.epractica.ro/Desktop/rez/New folder/pr_atestat_2015/rosmanica_liviu/cursa.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/New folder/pr_atestat_2015/rosmanica_liviu/erd.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/New folder/pr_atestat_2015/rosmanica_liviu/inc/sus.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/New folder/pr_atestat_2015/rosmanica_liviu/index.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/New folder/pr_atestat_2015/rosmanica_liviu/masina.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/New folder/mi_2017/09_mares_oana/index.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/New folder/mi_2017/12_nitu_cristina/index.php",
+		"/C/xampp/htdocs/pacient/programeaza.php",
+		"/C/xampp/htdocs/admin/add_cont.php",
+		"/C/xampp/htdocs/operator/add_factura.php",
+		"/C/xampp/htdocs/footer.php",
+		"/D/Dana/gen/includes/scaffold.class.php",
+		"/D/Dana/gen/includes/base.class.php",
+		"/D/Dana/gen/includes/config.php",
+		"/D/Dana/gen/fields.php",
+		"/D/Dana/gen/tables.php",
+		"/D/Dana/gen/index.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/atestat/ilie_raluca/templates/elev_view.php",
+		"/D/Dana/gen/skill/skill.php",
+		"/D/Dana/gen/skill/templates/skill_add.php",
+		"/D/Dana/gen/library/paginator.class.php",
+		"/D/Dana/gen/skill/init.php",
+		"/D/Dana/gen/library/formvalidator.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/atestat/ilie_raluca/templates/bursa_edit.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/atestat/ilie_raluca/templates/bursa_listing.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/atestat/ilie_raluca/elev.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/atestat/ilie_raluca/templates/bursa_add.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/atestat/ilie_raluca/erd.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/atestat/ilie_raluca/index.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/atestat/ilie_raluca/init.php",
+		"/C/xampp/htdocs/pacient/footer_pacient.php",
+		"/C/Users/www.epractica.ro/Desktop/rez/atestat/ilie_raluca/inc/sus.php",
+		"/C/xampp/htdocs/admin_modal.php",
+		"/C/xampp/htdocs/operator/footer_operator.php",
+		"/C/xampp/htdocs/medic/footer_medic.php",
+		"/C/xampp/htdocs/admin/footer_admin.php",
+		"/C/xampp/htdocs/pacient/dbcon.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/ap_2018/ap_merlan/index.php",
+		"/C/xampp/htdocs/ap_2018/ap_merlan/publicatii.php",
+		"/C/xampp/htdocs/ap_2018/ap_merlan/abonamente.php",
+		"/C/xampp/htdocs/ap_2018/ap_merlan/ERD.php",
+		"/C/xampp/htdocs/ap_2018/ap_cristea/index.php",
+		"/C/xampp/htdocs/ap_2018/ap_cristea/css/bootstrap.min.css",
+		"/C/xampp/htdocs/ap_2018/ap_cristea/relatie.php",
+		"/C/xampp/htdocs/ap_2018/ap_cristea/relatie.png",
+		"/C/xampp/htdocs/ap_2018/ap_olteanu/init.php",
+		"/C/xampp/htdocs/ap_2018/ap_cristea/locatari.php",
+		"/C/xampp/htdocs/ap_2018/ap_cristea/apartamente.php",
+		"/C/xampp/htdocs/ap_2018/ap_cristea/index.html",
+		"/C/xampp/htdocs/ap_2018/ap_stoica/init.php",
+		"/C/xampp/htdocs/ap_2018/ap_scurt/init.php",
+		"/C/xampp/htdocs/ap_2018/ap_sandu/init.php",
+		"/C/xampp/htdocs/ap_2018/ap_radu/init.php",
+		"/C/xampp/htdocs/ap_2018/ap_merlan/init.php",
+		"/C/xampp/htdocs/ap_2018/ap_dobre/init.php",
+		"/C/xampp/htdocs/ap_2018/ap_cristea/init.php",
+		"/C/xampp/htdocs/ap_2018/ap_cojocaru/index.php",
+		"/C/xampp/htdocs/mi_2017/07_iordache_daria/relatie.php",
+		"/C/xampp/htdocs/ap_2018/ap_cojocaru/header.php",
+		"/C/xampp/htdocs/mi_2017/10_mohonea_andreea/erd.php",
+		"/C/xampp/htdocs/mi_2017/10_mohonea_andreea/index.php",
+		"/C/xampp/htdocs/ap_2018/ap_banu/init.php",
+		"/C/xampp/htdocs/ap_2018/de_adaugat",
+		"/C/xampp/htdocs/ap_2018/ap_banu/inc/jos.php",
+		"/C/xampp/htdocs/ap_2018/ap_banu/inc/sus.php",
+		"/C/xampp/htdocs/mi_2017/13_panait_sorin/despre_mine.php",
+		"/C/xampp/htdocs/ap_2018/ap_cojocaru/db/baza.php",
+		"/C/xampp/htdocs/mi_2017/07_iordache_daria/index.php",
+		"/C/xampp/htdocs/mi_2017/12_nitu_cristina/relatie.php",
+		"/C/xampp/htdocs/mi_2017/08_manea_alexandru/angajati.php",
+		"/C/xampp/htdocs/mi_2017/07_iordache_daria/index.html",
+		"/C/xampp/htdocs/mi_2017/06_gheorghe_daiana/index.php",
+		"/C/xampp/htdocs/mi_2017/06_gheorghe_daiana/about.php",
+		"/C/xampp/htdocs/mi_2017/06_gheorghe_daiana/consultatii.php",
+		"/C/xampp/htdocs/mi_2017/06_gheorghe_daiana/pacienti.php",
+		"/C/xampp/htdocs/mi_2017/06_gheorghe_daiana/css/clean-blog.min.css",
+		"/C/xampp/htdocs/mi_2017/17_stefan_cristian/index.php",
+		"/C/xampp/htdocs/mi_2017/14_petre_andreea/regizori.php",
+		"/C/xampp/htdocs/mi_2017/14_petre_andreea/post.php",
+		"/C/xampp/htdocs/mi_2017/14_petre_andreea/index.php",
+		"/C/xampp/htdocs/mi_2017/14_petre_andreea/index.html",
+		"/C/xampp/htdocs/mi_2017/14_petre_andreea/filme.php",
+		"/C/xampp/htdocs/mi_2017/14_petre_andreea/about.php",
+		"/C/xampp/htdocs/mi_2017/14_petre_andreea/css/clean-blog.min.css",
+		"/C/xampp/htdocs/mi_2017/14_petre_andreea/regizori.html",
+		"/C/Users/www.epractica.ro/Desktop/startbootstrap-clean-blog-gh-pages/index.html",
+		"/C/xampp/htdocs/mi_2017/13_panait_sorin/index.php",
+		"/C/xampp/htdocs/mi_2017/13_panait_sorin/css/custom-styles.css",
+		"/C/xampp/htdocs/mi_2017/18_zamfirache_cosmin/index.php",
+		"/C/xampp/htdocs/mi_2017/18_zamfirache_cosmin/erd.php",
+		"/C/xampp/htdocs/mi_2017/18_zamfirache_cosmin/filme.php",
+		"/C/xampp/htdocs/mi_2017/18_zamfirache_cosmin/actori.php",
+		"/C/xampp/htdocs/mi_2017/09_mares_oana/index.php",
+		"/C/xampp/htdocs/mi_2017/14_petre_andreea/css/grayscale.css",
+		"/C/xampp/htdocs/mi_2017/14_petre_andreea/erd.php",
+		"/C/xampp/htdocs/mi_2017/17_stefan_cristian/inc/jos.php",
+		"/C/xampp/htdocs/mi_2017/17_stefan_cristian/autovehicule.php",
+		"/C/xampp/htdocs/mi_2017/17_stefan_cristian/inc/sus.php",
+		"/C/xampp/htdocs/mi_2017/17_stefan_cristian/proprietari.php",
+		"/C/xampp/htdocs/mi_2017/17_stefan_cristian/erd.php",
+		"/C/xampp/htdocs/mi_2017/17_stefan_cristian/index.html",
+		"/C/xampp/htdocs/mi_2017/17_stefan_cristian/css/style.css",
+		"/C/xampp/htdocs/mi_2017/18_zamfirache_cosmin/index.html",
+		"/C/xampp/htdocs/mi_2017/index.php",
+		"/C/xampp/htdocs/mi_2017/07_iordache_daria/cluburi.php",
+		"/C/xampp/htdocs/mi_2017/07_iordache_daria/sportivi.php",
+		"/C/xampp/htdocs/mi_2017/04_chelu_rahela/edituri.php",
+		"/C/xampp/htdocs/mi_2017/04_chelu_rahela/inc/sus.php",
+		"/C/xampp/htdocs/mi_2017/04_chelu_rahela/erd.php",
+		"/C/xampp/htdocs/mi_2017/04_chelu_rahela/init.php",
+		"/C/xampp/htdocs/mi_2017/04_chelu_rahela/index.php",
+		"/C/xampp/htdocs/mi_2017/04_chelu_rahela/carti.php",
+		"/C/xampp/htdocs/mi_2017/04_chelu_rahela/index.html",
+		"/C/xampp/htdocs/mi_2017/15_pipoiu_nicoleta/erd.php",
+		"/C/xampp/htdocs/mi_2017/11_neagu_andrei/index.php",
+		"/C/xampp/htdocs/mi_2017/02_boldea_florentina/erd.php",
+		"/C/xampp/htdocs/mi_2017/02_boldea_florentina/index.php",
+		"/C/xampp/htdocs/mi_2017/11_neagu_andrei/abonamente.php",
+		"/C/xampp/htdocs/mi_2017/11_neagu_andrei/publicatii.php",
+		"/C/xampp/htdocs/mi_2017/07_iordache_daria/css/bootstrap.min.css",
+		"/C/xampp/htdocs/mi_2017/07_iordache_daria/init.php",
+		"/C/Users/www.epractica.ro/Desktop/07_iordache_daria/index.html",
+		"/C/Users/www.epractica.ro/Desktop/07_iordache_daria/init.php",
+		"/C/Users/www.epractica.ro/Desktop/startbootstrap-modern-business-gh-pages/index.html",
+		"/C/xampp/htdocs/mi_2017/16_stan_antonio/erd.php",
+		"/C/xampp/htdocs/mi_2017/16_stan_antonio/inc/jos.php",
+		"/C/xampp/htdocs/mi_2017/16_stan_antonio/index.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"data",
+			"<?"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__medclinic__.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
